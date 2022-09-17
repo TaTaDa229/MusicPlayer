@@ -66,9 +66,37 @@ const app = {
     {
       name: "Khi Người Lớn Cô Đơn",
       singer: "Quang Vinh, Ali Hoàng Dương",
-      path: "https://mp3-320s1-m-zmp3.zmdcdn.me/e715a5498a0e63503a1f/22923955729207767?authen=exp=1663591350~acl=/e715a5498a0e63503a1f/*~hmac=150e0fa712f9c780e4cfcd23ea1e82b7",
+      path: "https://mp3-320s1-m-zmp3.zmdcdn.me/ba0316884fc9a697ffd8/7118727889984103054?authen=exp=1663592335~acl=/ba0316884fc9a697ffd8/*~hmac=2c98ba1cd980322e7b6154d9097ac0e6",
       image:
         "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/e/8/6/e/e86e935b3c2cf63cffcee9c77e62e756.jpg",
+    },
+    {
+      name: "Người Ta Nói",
+      singer: "GiGi Hương Giang",
+      path: "https://mp3-320s1-m-zmp3.zmdcdn.me/c1f444ab5deab4b4edfb/8623448277095206831?authen=exp=1663592222~acl=/c1f444ab5deab4b4edfb/*~hmac=4190ab0fe0257ce8d513c63ea41be368",
+      image:
+        "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/3/9/7/9/39795e79c06143128c49e665b2aef6c8.jpg",
+    },
+    {
+      name: "Chiếc Khăn Gió Ấm",
+      singer: "Tiên Cookie",
+      path: "https://mp3-320s1-m-zmp3.zmdcdn.me/c1025101f4451d1b4454/1712956703080856784?authen=exp=1663592719~acl=/c1025101f4451d1b4454/*~hmac=ad760f461c7e36b9845b245afeeaa527",
+      image:
+        "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/covers/6/2/62df066e6f9196dbeedadd35931b88ae_1382408334.jpg",
+    },
+    {
+      name: "Phai Dấu Cuộc Tình",
+      singer: "Bích Phương",
+      path: "https://mp3-320s1-m-zmp3.zmdcdn.me/95bfe12e4a6aa334fa7b/8801277210085754766?authen=exp=1663592858~acl=/95bfe12e4a6aa334fa7b/*~hmac=3f55a62fcc8d287569f7e1704e6bb99c",
+      image:
+        "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/covers/0/c/0c1365dcfe65f5f6a9064155fbe98304_1416994128.jpg",
+    },
+    {
+      name: "Con Đường Mưa",
+      singer: "Ái Phương",
+      path: "https://mp3-320s1-m-zmp3.zmdcdn.me/95bfe12e4a6aa334fa7b/8801277210085754766?authen=exp=1663592858~acl=/95bfe12e4a6aa334fa7b/*~hmac=3f55a62fcc8d287569f7e1704e6bb99c",
+      image:
+        "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/covers/6/2/62df066e6f9196dbeedadd35931b88ae_1382408334.jpg",
     },
   ],
   render: function () {
